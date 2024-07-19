@@ -14,29 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, I'm Albin Joseph!
-Welcome to my GitHub profile! I’m an Angular-Java Full-Stack Developer and currently pursuing a Master’s in Artificial Intelligence. With a strong foundation in various technologies and a knack for innovative problem-solving, I’m excited to showcase my projects and skills here.
+# 👋 Hello, I'm Albin Joseph!
 
-🚀 About Me
-💼 Current Role: Angular-Java Full-Stack Developer and Master's student in Artificial Intelligence
-🎓 Education: Master’s in Artificial Intelligence from Brandenburgische Technische Universität
-🌍 Location: Berlin, Deutschland
-🔍 Looking For: Developer roles and exciting opportunities in tech
+Welcome to my GitHub profile! I'm an Angular-Java Full-Stack Developer and currently pursuing a Master's in Artificial Intelligence. With a strong foundation in various technologies and a knack for innovative problem-solving, I'm excited to showcase my projects and skills here.
 
-🎓 Education
-Master of Science [MS] in Künstlicher Intelligenz
-Brandenburgische Technische Universität
-2023 – present | Germany
+## 🚀 About Me
+
+- 💼 **Current Role:** Angular-Java Full-Stack Developer and Master's student in Artificial Intelligence
+- 🎓 **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
+- 🌍 **Location:** Berlin, Deutschland
+- 🔍 **Looking For:** Developer roles and exciting opportunities in tech
+
+## 🎓 Education
+
+### Master of Science [MS] in Künstlicher Intelligenz
+**Brandenburgische Technische Universität**  
+2023 – present | Germany  
 Specializations: Data Mining, Machine Learning, Neural Networks, Deep Learning
 
-Bachelor of Engineering in Informatik
-Anna University
-2016 – 2020 | Chennai
+### Bachelor of Engineering in Informatik
+**Anna University**  
+2016 – 2020 | Chennai  
 Specializations: Java, C, Python, MySQL, HTML, CSS, Javascript, Software Engineering Principle
 
-📈 My GitHub Stats
-Thanks for stopping by! Feel free to explore my repositories and connect with me if you’d like to collaborate or discuss tech.
+Thanks for stopping by! Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss tech.
 
-📫 How to Reach Me
-Email: albincj007@gmail.com
-Phone: +49 15510205816
+## 📫 How to Reach Me
+
+- **Email:** albincj007@gmail.com
+- **Phone:** +49 15510205816
