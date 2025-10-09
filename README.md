@@ -23,13 +23,12 @@ Welcome to my GitHub profile! I'm an Angular-Java Full-Stack Developer and curre
 - 💼 **Current Role:** Full Stack AI Applicaction Develper
 - 🎓 **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
 - 🌍 **Location:** Berlin, Deutschland
-- 🔍 **Looking For:** Developer roles and exciting opportunities in tech
 
 ## 🎓 Education
 
 ### Master of Science [MS] in Künstlicher Intelligenz
 **Brandenburgische Technische Universität**  
-2023 – present | Germany  
+2023 – 2025 | Germany  
 Specializations: Data Mining, Machine Learning, Neural Networks, Deep Learning
 
 ### Bachelor of Engineering in Informatik
