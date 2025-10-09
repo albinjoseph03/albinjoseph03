@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an Angular-Java Full-Stack Developer and curre
 
 ## 🚀 About Me
 
-- 💼 **Current Role:** Full Stach AI Applicaction Develper at Doings Softwares
+- 💼 **Current Role:** Full Stack AI Applicaction Develper
 - 🎓 **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
 - 🌍 **Location:** Berlin, Deutschland
 - 🔍 **Looking For:** Developer roles and exciting opportunities in tech
