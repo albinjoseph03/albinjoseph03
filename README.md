@@ -36,8 +36,6 @@ Specializations: Data Mining, Machine Learning, Neural Networks, Deep Learning
 2016 – 2020 | Chennai  
 Specializations: Java, C, Python, MySQL, HTML, CSS, Javascript, Software Engineering Principle
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss tech.
-
 ## 📫 How to Reach Me
 
 - **Email:** albincj007@gmail.com
