@@ -39,5 +39,5 @@ Specializations: Java, C, Python, MySQL, HTML, CSS, Javascript, Software Enginee
 ## 📫 How to Reach Me
 
 - **Email:** albincj007@gmail.com
-- **LinkeIn:** https://www.linkedin.com/in/albin-joseph-945076103/
+- **LinkedIn:** https://www.linkedin.com/in/albin-joseph-945076103/
 - **Phone:** +49 15510205816
