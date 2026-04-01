@@ -13,22 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 👋 Hello, I'm Albin Joseph!
 
-Welcome to my GitHub profile! I'm an Angular-Java Full-Stack Developer and currently pursuing a Master's in Artificial Intelligence. With a strong foundation in various technologies and a knack for innovative problem-solving, I'm excited to showcase my projects and skills here.
+# 👋 Hello, I'm Albin Joseph
+-->
+
+Welcome to my GitHub profile! I'm a Full Stack AI Developer and currently pursuing a Master's in Artificial Intelligence. With a strong foundation in various technologies and a knack for innovative problem-solving, I'm excited to showcase my projects and skills here.
 
 ## 🚀 About Me
 
-- 💼 **Current Role:** Full Stack AI Applicaction Develper
+- 💼 **Current Role:** Full Stack AI Developer
 - 🎓 **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
 - 🌍 **Location:** Berlin, Deutschland
 
 ## 🎓 Education
 
-### Master of Science [MS] in Künstlicher Intelligenz
+### Master of Science [MS] in Artificial Intelligence
 **Brandenburgische Technische Universität**  
-2023 – 2025 | Germany  
+2023 – 2026 | Germany  
 Specializations: Data Mining, Machine Learning, Neural Networks, Deep Learning
 
 ### Bachelor of Engineering in Informatik
