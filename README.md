@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **albinjoseph03/albinjoseph03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a Full Stack AI Developer and currently pursuing a Master's in Artificial Intelligence. With a strong foundation in various technologies and a knack for innovative problem-solving, I'm excited to showcase my projects and skills here.
 
-## 🚀 About Me
+##  About Me
 
-- 💼 **Current Role:** Full Stack AI Developer
-- 🎓 **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
-- 🌍 **Location:** Berlin, Deutschland
+-  **Current Role:** Full Stack AI Developer
+-  **Education:** Master's in Artificial Intelligence from Brandenburgische Technische Universität
+-  **Location:** Berlin, Deutschland
 
-## 🎓 Education
+##  Education
 
 ### Master of Science [MS] in Artificial Intelligence
 **Brandenburgische Technische Universität**  
@@ -37,7 +37,7 @@ Specializations: Data Mining, Machine Learning, Neural Networks, Deep Learning
 2016 – 2020 | Chennai  
 Specializations: Java, C, Python, MySQL, HTML, CSS, Javascript, Software Engineering Principle
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - **Email:** albincj007@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/albin-joseph-945076103/
